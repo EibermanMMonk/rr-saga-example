@@ -1,0 +1,7 @@
+{
+  "name": "react-saga-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial for monkacademy",
+  "main": "index.js",
+  "license": "MIT"
+}
